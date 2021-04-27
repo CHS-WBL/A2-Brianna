@@ -1,19 +1,19 @@
 Questions
 
 1. What is your project idea (as decided by your team and approved by your teacher)?
-
+It is a search engine that donates ad revenue to a charity once a predetermined number of searches has been reached.
 2. What kind of website is it (Community, Existing Industry, Startup)?
-
+Startup
 3. What problem does your project solve?
-
+It donates revenue to a cause that is actively working toward solving a problem.
 4. Is it a “vitamin” or a “painkiller”? Why?
-
+It's more of a vitamin because it's more of a long term good than an instant problem solver.
 5. How does your project solve the problem?
-
+It donated to a good cause at no detriment to the user.
 6. Is your idea similar to another product? If so, how is your idea better/different (what is your “secret sauce” as described in the video)?
-
+It is similar to Ecosia, which plants trees when people use its search engine. Mine is different because it donates to other charities.
 7. Describe the likely users of your web site.
-
+People who want to give but can't afford to would like it.
 8. Is the idea simple as described in the How To Choose Business Ideas video?
 
 9. Is your idea in a growing market or mature market (see video on Growing Markets)?
