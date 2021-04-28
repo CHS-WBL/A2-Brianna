@@ -15,11 +15,12 @@ It is similar to Ecosia, which plants trees when people use its search engine. M
 7. Describe the likely users of your web site.
 People who want to give but can't afford to would like it.
 8. Is the idea simple as described in the How To Choose Business Ideas video?
-
+Yes, it can be easily described in few sentences.
 9. Is your idea in a growing market or mature market (see video on Growing Markets)?
-
+It's a bit of both. There are tons of search engines out there, but not many that use ad revenue from searches to donate.
 10. How did you come up with this idea? Describe the process.
-
+I thought it would be a good idea to create a way people can make a difference while doing a normal, everyday thing like looking something up on the internet.
 11. What other ideas were candidates?
-
+I did not come up with any other ideas.
 12. Why did you pick this idea over the other candidates?
+It was my only idea.
