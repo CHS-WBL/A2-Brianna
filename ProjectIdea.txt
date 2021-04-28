@@ -9,7 +9,7 @@ It donates revenue to a cause that is actively working toward solving a problem.
 4. Is it a “vitamin” or a “painkiller”? Why?
 It's more of a vitamin because it's more of a long term good than an instant problem solver.
 5. How does your project solve the problem?
-It donated to a good cause at no detriment to the user.
+It donated to a good cause at no disadvantage to the user.
 6. Is your idea similar to another product? If so, how is your idea better/different (what is your “secret sauce” as described in the video)?
 It is similar to Ecosia, which plants trees when people use its search engine. Mine is different because it donates to other charities.
 7. Describe the likely users of your web site.
